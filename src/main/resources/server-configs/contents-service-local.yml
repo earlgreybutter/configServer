@@ -1,0 +1,6 @@
+# contents-service-local.yml
+spring:
+  config:
+    activate:
+      on-profile: local
+  message: Hello Spring ContentsService Local Server!!!!!
